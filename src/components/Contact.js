@@ -35,14 +35,14 @@ function Contact({resumeData}) {
           opportunities. Feel free to drop a
            mail in my Inbox.</Text>
 
-        <MailButton data-aos="fade-in"><a href="mailto:bhavyagoyal54@gmail.com">Say Hello</a></MailButton>
+        <MailButton data-aos="fade-in"><a href="mailto:nishantnb258@gmail.com">Say Hello</a></MailButton>
 
         {links?
             <Links >
                 <Link url={links[1].url} icon={<IoLogoLinkedin size={22}/>}/>
                 <Link url={links[2].url} icon={<IoLogoInstagram size={22}/>}/>
                 <Link url={links[3].url} icon={<IoLogoGithub size={22}/>}/>
-                <Link url="mailto:bhavyagoyal54@gmail.com" icon={<IoMailOpen size={22}/>}/>
+                <Link url="mailto:nishantnb258@gmail.com" icon={<IoMailOpen size={22}/>}/>
             </Links>
             :
             <></>
