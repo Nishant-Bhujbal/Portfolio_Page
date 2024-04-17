@@ -1,0 +1,73 @@
+{
+    "main": {
+      "name": "Nishant Bhujbal",
+      "bio": "I'm a senior at IIIT-K pursuing my BTech in Computer Science Engineering with a passion for programming. Currently a Full-Stack web and app developer. Eager to meet new people and acquire new skills.",
+      "contactmessage": "Get in touch with me.",
+      "email": "nishantnb258@gmail.com",
+      "phone": "+91 9307099632",
+      "address": {
+        "street": "Jail Road",
+        "city": "Nashik",
+        "state": "Maharashtra",
+        "zip": "422101"
+      },
+      "social": [
+        {
+          "name": "facebook",
+          "url": ""
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/nishant-bhujbal/"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/bhujbal_nishant/"
+        },
+        {
+          "name": "github",
+          "url": "https://github.com/Nishant-Bhujbal"
+        }
+      ],
+      "experience": [
+        {
+          "name" : "Maximl",
+          "position" : "SDE Intern",
+          "Desc" : "Created a No-Code Platform enabling drag-and-drop elements like buttons, tables. Integrated REST API queries for dynamic data display.Continuously optimized and enhanced user experience through iterative development.Developed a web-based annotation tool using React to enable seamless annotation of PID diagrams. Key features included PDF rendering, annotation tools, zoom and pan functionalities, and comprehensive annotation management capabilities."
+        }
+      ]
+    },
+    "portfolio": {
+      "projects": [
+        {
+          "title":"Z-Chat",
+          "dis": "Built a Flutter and Firebase chat app featuring real-time messaging, user auth, multimedia sharing, push notifications, and offline support. Enhanced communication with sleek design and strong backend",
+          "git_url": "https://github.com/Nishant-Bhujbal/Z-Chat",
+          "Build": "Flutter,Firebase",
+          "bg":"zchat.jpg",
+          "id": 1
+        },
+        {
+          "title": "Apple Webiste",
+          "dis": "Built an Apple website clone using React.js and Tailwind CSS for efficient development and responsiveness. Enhanced UI with Three.js, GSAP, and a sleek design to mimic the original Apple site.",
+          "url": "https://apple-black.vercel.app/",
+          "git_url": "https://github.com/Nishant-Bhujbal/Apple",
+          "bg":"apple.png",
+          "Build": "ReactJs, Threejs, Gsap",
+          "id": 2
+        },
+        {
+          "title": "Recipe-Finder",
+          "dis": "Created React-based website for instant recipe suggestions based on user-inputted ingredients.lntegrated reliable Food API for accurate and dynamic recipe data.",
+          "git_url":"https://github.com/Nishant-Bhujbal/RecipeFinder",
+          "Build": "React js"
+        },
+        {
+          "title": "Tic-Tac-Toe",
+          "dis": "Developed interactive TicTacToe game using Flutter with support for up to three simultaneous players.Utilized advanced features and tools provided by Flutter framework.",
+          "git_url":"https://github.com/Nishant-Bhujbal/TicTacToe",
+          "Build": "Flutter"
+        }
+      ]
+    }
+  }
