@@ -13,7 +13,7 @@ function Home({resumeData}) {
         
         {/* <Content> */}
           <About resumeData={resumeData?.main}/>
-          <Experience/>
+          {/* <Experience/> */}
           <Skills resumeData={resumeData}/>
           <Projects resumeData={resumeData}/>
           <Contact resumeData={resumeData?.main}/>

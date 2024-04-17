@@ -103,7 +103,7 @@ function Header() {
         
                 <Nav> 
                     <NavItem text="About"/>
-                    <NavItem text="Experience"/>
+                    {/* <NavItem text="Experience"/> */}
                     <NavItem text="Skills"/>
                     <NavItem text="Projects"/>
                     <NavItem text="Contact"/>
